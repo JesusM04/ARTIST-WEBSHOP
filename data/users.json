@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Juan Pérez",
+      "email": "juan@example.com",
+      "role": "student",
+      "grade": "1er año",
+      "subjects": ["Matemáticas", "Historia", "Ciencias"]
+    },
+    {
+      "id": "2",
+      "name": "María García",
+      "email": "maria@example.com",
+      "role": "student",
+      "grade": "3er año",
+      "subjects": ["Física", "Química", "Literatura"]
+    }
+  ],
+  "teachers": [
+    {
+      "id": "3",
+      "name": "Prof. Carlos Rodríguez",
+      "email": "carlos@example.com",
+      "role": "teacher",
+      "subjects": ["Matemáticas"],
+      "grades": ["1er año", "2do año"]
+    },
+    {
+      "id": "4",
+      "name": "Prof. Ana Martínez",
+      "email": "ana@example.com",
+      "role": "teacher",
+      "subjects": ["Historia"],
+      "grades": ["3er año", "4to año"]
+    }
+  ],
+  "administrators": [
+    {
+      "id": "5",
+      "name": "Dir. Roberto Sánchez",
+      "email": "roberto@example.com",
+      "role": "admin"
+    }
+  ]
+} 

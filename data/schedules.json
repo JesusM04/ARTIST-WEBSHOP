@@ -1,0 +1,32 @@
+{
+  "1er año": {
+    "lunes": [
+      {
+        "hora": "7:30 - 8:20",
+        "materia": "Matemáticas",
+        "profesor": "Prof. Carlos Rodríguez"
+      },
+      {
+        "hora": "8:20 - 9:10",
+        "materia": "Historia",
+        "profesor": "Prof. Ana Martínez"
+      }
+    ],
+    "martes": [
+      {
+        "hora": "7:30 - 8:20",
+        "materia": "Ciencias",
+        "profesor": "Prof. María López"
+      }
+    ]
+  },
+  "2do año": {
+    "lunes": [
+      {
+        "hora": "7:30 - 8:20",
+        "materia": "Historia",
+        "profesor": "Prof. Ana Martínez"
+      }
+    ]
+  }
+} 

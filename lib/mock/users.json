@@ -1,0 +1,49 @@
+{
+  "client": {
+    "id": "client123",
+    "name": "Juan Pérez",
+    "email": "juan.perez@email.com",
+    "avatar": "/avatars/client-avatar.jpg",
+    "role": "client",
+    "joinedDate": "2023-09-15",
+    "stats": {
+      "ordersCompleted": 15,
+      "averageRating": 4.8,
+      "totalSpent": 750.00
+    },
+    "preferences": {
+      "notifications": true,
+      "language": "es",
+      "currency": "USD"
+    },
+    "lastLogin": "2024-03-15T08:30:00Z"
+  },
+  "artist": {
+    "id": "artist456",
+    "name": "María González",
+    "email": "maria.gonzalez@email.com",
+    "avatar": "/avatars/artist-avatar.jpg",
+    "role": "artist",
+    "joinedDate": "2022-06-01",
+    "stats": {
+      "projectsCompleted": 87,
+      "averageRating": 4.9,
+      "totalEarned": 12500.00,
+      "satisfactionRate": 98
+    },
+    "expertise": [
+      "Diseño Gráfico",
+      "Ilustración Digital",
+      "Modelado 3D",
+      "Animación"
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Artes Visuales",
+        "institution": "Universidad Central de Venezuela",
+        "year": 2020
+      }
+    ],
+    "lastLogin": "2024-03-15T09:45:00Z"
+  }
+} 

@@ -1,0 +1,7 @@
+"# PROYECTO-SGE-TESIS" 
+"# TESIS-SGE" 
+"# VAMOS" 
+"# VAMOS" 
+"# DEPLOY" 
+"# DEPLOY" 
+"# Artist-shop" 
